@@ -5,7 +5,7 @@ Advanced Calculator
 This is an Advanced Calculator built using Python.
 It allows users to perform the following operations:
 
-Addition
+ Addition
 
 Subtraction
 
